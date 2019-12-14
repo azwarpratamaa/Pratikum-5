@@ -23,3 +23,7 @@
 6. Dan untuk mengeluarkan program tekan saja *K* seperti gambar dibawah ini.
 
 ![finised](https://user-images.githubusercontent.com/56986904/70721042-875a6600-1d27-11ea-8da1-074bf17e6a1a.png)
+
+Ini adalah Flowchart dari program diatas.
+
+![flow chart -dikonversi-1](https://user-images.githubusercontent.com/56994174/70851358-beb34900-1ec6-11ea-99c9-735b956b946c.jpg)
